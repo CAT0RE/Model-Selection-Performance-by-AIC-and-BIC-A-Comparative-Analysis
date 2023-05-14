@@ -1,0 +1,2 @@
+# Model-Selection-Performance-by-AIC-and-BIC-A-Comparative-Analysis
+Model selection is a crucial step in statistical modeling, allowing us to determine the most appropriate model for a given dataset. In this report, we compare the performance of two commonly used model selection criteria, the Akaike Information Criterion (AIC) and the Bayesian Information Criterion (BIC), in selecting the number of latent factors in a Factor Analysis (FA) model.
